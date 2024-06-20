@@ -5,12 +5,42 @@ body {
 }
 
 .container {
-    width: 50%;
+    width: 40%;
     margin: 40px auto;
     padding: 20px;
     background-color: #fff;
     border: 1px solid #ddd;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+.header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+}
+
+.header img {
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+    border-radius: 50%;
+}
+
+.header h1 {
+    font-size: 24px;
+    margin: 10px;
+}
+
+.login-form {
+    padding: 20px;
+}
+
+.login-form h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
 }
 
 label {
@@ -24,6 +54,7 @@ input[type="email"], input[type="password"] {
     margin-bottom: 20px;
     padding: 10px;
     border: 1px solid #ccc;
+    border-radius: 5px;
 }
 
 button[type="button"] {
@@ -39,4 +70,19 @@ button[type="button"] {
 
 button[type="button"]:hover {
     background-color: #3e8e41;
+}
+
+p {
+    font-size: 14px;
+    color: #666;
+    margin-top: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #337ab7;
+}
+
+a:hover {
+    color: #23527c;
 }
