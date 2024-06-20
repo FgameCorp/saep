@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-20T22:14:26.070Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Ub0cV5hXgDDklsM21Drz" version="24.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-20T22:27:04.402Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="yM_2H3v5oC0lc0FeYnvN" version="24.6.0" type="github">
   <diagram name="Página-1" id="0P2HKKypik-2BZC9i3HW">
     <mxGraphModel dx="1114" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
         <mxCell id="0RFeQ9MgRtPXAFtp0lvO-1" value="PROFESSOR" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="140" y="150" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0RFeQ9MgRtPXAFtp0lvO-5" value="Registrar turmas&lt;div&gt;excluir&amp;nbsp;&lt;/div&gt;&lt;div&gt;além de cadastrar atividades&lt;/div&gt;&lt;div&gt;para turma&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="0RFeQ9MgRtPXAFtp0lvO-5" value="&lt;ul&gt;&lt;li&gt;Registrar turmas&lt;/li&gt;&lt;li&gt;excluir&amp;nbsp;&lt;/li&gt;&lt;li&gt;além de cadastrar atividades para turma&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="360" y="150" width="300" height="100" as="geometry" />
         </mxCell>
         <mxCell id="0RFeQ9MgRtPXAFtp0lvO-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="0RFeQ9MgRtPXAFtp0lvO-6" target="0RFeQ9MgRtPXAFtp0lvO-7" edge="1">
@@ -26,7 +26,7 @@
         <mxCell id="0RFeQ9MgRtPXAFtp0lvO-6" value="ALUNO" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="140" y="290" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0RFeQ9MgRtPXAFtp0lvO-7" value="cadastrar dentro do sistema&lt;div&gt;com os dados dele&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="0RFeQ9MgRtPXAFtp0lvO-7" value="&lt;ul&gt;&lt;li&gt;cadastrar dentro do sistema com os dados dele&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="354" y="300" width="306" height="100" as="geometry" />
         </mxCell>
       </root>
